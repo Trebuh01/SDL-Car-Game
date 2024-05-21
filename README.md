@@ -1,3 +1,9 @@
+# SDL Car Game
+
+<div align="center">
+    <img src="./ss_game.png" alt="Game Screenshot" />
+</div>
+
 # Description
 SDL Car Game is a classic 2D car racing game built using SDL (Simple DirectMedia Layer) version 2.0.10. Players can navigate their car on a road, avoid obstacles, and shoot at enemies. The game incorporates basic mechanics such as movement, collision detection, shooting, and scoring. It provides an engaging experience with dynamic visuals and responsive controls.
 
